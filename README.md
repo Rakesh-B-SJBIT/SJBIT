@@ -2,7 +2,7 @@
 
 ## 📋 Project Details
 - **Theme**: THEME-03: Elective Choice System  
-- **Team Members**: @Rakesh-B-SJBIT, @Pavankalyanv-sjbit, @jmprajwal, @partha-sjbit
+- **Team Members**: Rakesh B, Pavankalyan V, JM Prajwal, Partha H.C
 - **Live URL**: 
 
 ---
